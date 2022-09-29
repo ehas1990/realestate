@@ -1,0 +1,95 @@
+body {
+    background-image: url('/realestatemanagementsystem/img/70.jpg');
+    background-repeat: no-repeat;
+    background-size:cover;
+  height: fit-content;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1,h2,h3,h4,h5,h6
+{
+    font-family: 'Montserrat', sans-serif;
+    color: #5a5b60;
+}
+a{
+    font-family: 'Montserrat', sans-serif;
+    color: #5a5b60;
+}
+p
+{
+    font-family: 'Montserrat', sans-serif;
+    color: #5a5b60;
+
+}
+footer
+{
+    background: #ffffff;
+   
+}
+
+.form-label {
+   
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+}
+.text-end
+{
+    text-align: end !important; 
+}
+.form-control {
+    display: block;
+    width: 100%;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    border-bottom-left-radius: 8px !important;
+    border-top-left-radius: 8px !important;
+    border-bottom-right-radius: 8px !important;
+    border-top-right-radius: 8px !important;
+    box-shadow: #a7a7a7 -1px 1px 20px !important;
+}
+#faclities-btn{
+    margin-top: 70px;
+}
+#faclities-btn .btn {
+ 
+    box-shadow: #b5b5b5 -1px 4px 11px 0px !important;
+}
+#quicklinks li ,a
+{
+    list-style-type: none;
+    text-decoration: none;
+    
+}
+.nav-link {
+    display: block;
+    padding: .5rem 1rem;
+    color: #ffffff;
+    text-decoration: none;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
+    font-weight:600;
+   font-family: 'Montserrat', sans-serif;
+
+
+}
+
+#card-body
+{
+    width: 350px;
+    height: 350px;
+    border-radius: 100%;
+}
+.card {
+    background: linear-gradient(152deg, #000000, #24232300);
+    border-radius: 12px;
+}

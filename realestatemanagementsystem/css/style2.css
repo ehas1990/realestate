@@ -1,0 +1,105 @@
+header {
+    background-image: linear-gradient(rgba(230, 225, 225, 0.39), rgba(0, 0, 0, 0.1)) , url('/realestatemanagementsystem/img/contact_pic01.jpg');
+    height:430px;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+ 
+}
+#head-division
+{
+    margin-top: 150px;
+}
+.text-division
+{
+    color: #ffffff;
+   text-align: center;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
+    font-weight:600;
+
+   font-family: 'Montserrat', sans-serif;
+}
+.nav-link {
+    display: block;
+    padding: .5rem 1rem;
+    color: #ffffff;
+    text-decoration: none;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
+    font-weight:600;
+   font-family: 'Montserrat', sans-serif;
+
+
+}
+.text-end
+{
+    text-align: end !important; 
+}
+#card-contact
+{
+    background:#00c0c4;
+    box-shadow: #a7a7a7 2px 14px 9px !important;
+
+}
+
+#card-contact-right
+{
+    background:#00c0c4;
+   
+}
+.icon
+{
+    display: inline-flex;
+}
+#nav-contact li {
+    list-style-type: none;
+margin: 36px 36px 36px 36px;
+font-family: 'Montserrat', sans-serif;
+color: #ffffff;
+
+}
+#quicklinks li a
+{
+    list-style-type: none;
+    text-decoration: none;
+}
+#quicklinks li 
+{
+    list-style-type: none;
+    text-decoration: none;
+}
+.fa
+{
+    color: #ffffff;
+    font-weight: 600;
+}
+h1,h2,h3,h4,h5,h6
+{
+    font-family: 'Montserrat', sans-serif;
+    color: #5a5b60;
+}
+a{
+    font-family: 'Montserrat', sans-serif;
+    color: #5a5b60;
+}
+.form-control {
+    display: block;
+    width: 100%;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    background-color: #ffffff;
+    background-clip: padding-box;
+    border: 1px solid #ffffff;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    border-bottom-left-radius: 8px !important;
+    border-top-left-radius: 8px !important;
+    border-bottom-right-radius: 8px !important;
+    border-top-right-radius: 8px !important;
+    box-shadow: #4a4a4a -1px 1px 20px !important;
+}
