@@ -88,8 +88,13 @@ footer
     width: 350px;
     height: 350px;
     border-radius: 100%;
+   
 }
 .card {
     background: linear-gradient(152deg, #000000, #24232300);
     border-radius: 12px;
+}
+#cardbody
+{
+    text-align:center;
 }
