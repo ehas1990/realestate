@@ -475,4 +475,34 @@ height: 205px;
 	display: inline-flex;
     font-family: 'Montserrat', sans-serif;
 }
-/* feature */
+/* media */
+@media only screen
+and (min-device-width: 220px)
+and (max-device-width:360px)
+{
+}
+@media only screen
+and (min-device-width: 360px)
+and (max-device-width: 420px)
+{
+}
+@media only screen
+and (min-device-width: 420px)
+and (max-device-width: 540px)
+{
+}
+@media only screen
+and (min-device-width:540px)
+and (max-device-width:720px)
+{
+}
+@media only screen
+and (min-device-width:720px)
+and (max-device-width:760px)
+{
+}
+@media only screen
+and (min-device-width:760px)
+and (max-device-width:1024px)
+{
+}

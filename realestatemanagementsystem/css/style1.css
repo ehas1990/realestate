@@ -1,5 +1,5 @@
 body {
-    background-image: url('/realestatemanagementsystem/img/70.jpg');
+    background-image: url("../img/70.jpg");
     background-repeat: no-repeat;
     background-size:cover;
   height: fit-content;
@@ -97,4 +97,47 @@ footer
 #cardbody
 {
     text-align:center;
+}
+#sigin_in
+{
+    text-align: -webkit-center;
+}
+#card-signin
+{
+    width: 30%;
+}
+
+.mt-6 {
+    padding-top: 13rem!important;
+}
+/* media */
+@media only screen
+and (min-device-width: 220px)
+and (max-device-width:360px)
+{
+}
+@media only screen
+and (min-device-width: 360px)
+and (max-device-width: 420px)
+{
+}
+@media only screen
+and (min-device-width: 420px)
+and (max-device-width: 540px)
+{
+}
+@media only screen
+and (min-device-width:540px)
+and (max-device-width:720px)
+{
+}
+@media only screen
+and (min-device-width:720px)
+and (max-device-width:760px)
+{
+}
+@media only screen
+and (min-device-width:760px)
+and (max-device-width:1024px)
+{
 }
